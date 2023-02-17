@@ -1,0 +1,23 @@
+{
+  "name": "week-8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RXTArtemis/Week-8-Repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RXTArtemis/Week-8-Repo/issues"
+  },
+  "homepage": "https://github.com/RXTArtemis/Week-8-Repo#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.6.3"
+  }
+}
